@@ -1,0 +1,22 @@
+ID	MSG
+0	B¹n qu¸ mÖt kh«ng thÓ tiÕp tôc lªn xuèng ngùa
+1	Bang héi hiÖn t¹i kh«ng cßn ®ñ 5000 l­îng ®Ó thay ®æi phe ph¸i
+2	Bang chñ cËp nhËt b¶ng th«ng tin bang héi thµnh c«ng!
+3	Më chøc n¨ng chiªu mé ®Ö tö!
+4	Khãa chøc n¨ng tuyÓn dông!
+5	Bang héi mµ b¹n muèn gia nhËp ®· ®ãng chøc n¨ng tuyÓn dông!
+6	B¹n kh«ng thÓ ph¸t ng©n l­îng liªn tôc. Xin chê vµi phót sau!
+7	B¹n kh«ng thÓ ®æi tªn m«n ®Ö liªn tôc. Xin chê vµi gi©y sau!
+8	B¹n kh«ng thÓ thay ®æi phe ph¸i liªn tôc. Xin chê vµi gi©y sau!
+9	Nh»m ®¶m b¶o tİnh c«ng b»ng, t¹m thêi b¹n kh«ng thÓ di chuyÓn vËt phÈm vµ dïng thuèc!
+10	Vò khİ b¹n ®ang sö dông kh«ng phï hîp víi lo¹i vâ c«ng nµy!
+11	Vâ c«ng nµy kh«ng thÓ sö dông trªn ngùa!
+12	Khu vùc nµy ®· ®­îc khãa chøc n¨ng chuyÓn PK!
+13	§Ó ®¶m b¶o tµi s¶n cho b¹n, vËt phÈm quı kh«ng ®­îc tïy tiÖn vøt ra ngoµi
+14	PK 10 kh«ng thÓ cõu s¸t vµ ®å s¸t ng­êi kh¸c!
+15	CÇn ®¹t cÊp 80 trë lªn míi cã thÓ sö dông kü n¨ng 90
+16	CÇn ®¹t cÊp 120 trë lªn míi cã thÓ sö dông kü n¨ng 150
+17	Xin chê vµi phót sau míi cã thÓ tiÕp tôc ph©n ph¸t ®iÓm cèng hiÕn!
+18	§èi ph­¬ng ®· rêi m¹ng råi!
+19	§èi ph­¬ng ®ang bËn hoÆc ®ang chiÕn ®Êu!
+20	Trß ch¬i ®ang t¹m b¶o tr×!
