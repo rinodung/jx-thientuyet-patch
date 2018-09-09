@@ -79,6 +79,6 @@ Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Ma V©n LiÖt DiÖm)	4	76	\spr\item\questkey\obj_it
 Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Cöu DiÖm L­u Liªn)	4	77	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
 Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Chİ T«n §µo B¸)	4	78	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
 Tói Hµnh Trang	4	79	\spr\item\questkey\obj_item_hehuan.spr	348	1	1	<color=yellow>Dïng ®Ó gia h¹n tói hµnh trang thªm 30 ngµy.NhÊn chuét ph¶i ®Ó sö dông.	0	1	0	0	0
-GameMaster	4	80	\spr\item\vietnam\leaguematch\icon_league_gold.spr	385	1	1	<bclr=white><color=red>LÖnh Bµi Admin...!	500	0	0	0	0
-LÖnh bµi Test	4	81	\spr\item\vietnam\leaguematch\icon_league_silver.spr	385	1	1	<bclr=white><color=red>LÖnh Bµi Test...!	100	0	1	0	0
+GameMaster	4	80	\spr\item\songjin\rescript.spr	385	1	1	<bclr=white><color=red>LÖnh Bµi Admin...!	500	0	0	0	0
+LÖnh bµi Test	4	81	\spr\item\vietnam\leaguematch\icon_league_silver.spr	385	1	1	<bclr=white><color=red>LÖnh Bµi Test...!	500	0	1	0	0
 
