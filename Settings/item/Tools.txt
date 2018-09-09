@@ -114,3 +114,4 @@ NÕn C¸t T­êng	2	111	\spr\item\script\zhongqiu_jieri\yunyoulazhu.spr	370	1	1	Nh©n
 NÕn Nh­ ý 	2	112	\spr\item\script\zhongqiu_jieri\xianwulazhu.spr	370	1	1	Nh©n ®«i kinh nghiÖm trong vßng 12 giê.	5	1	0	0	1
 Bæ huyÕt ®¬n	2	113	\spr\item\worldcup\buxuedan.spr	370	1	1	Båi bæ søc kháe, t¨ng c­êng thÓ lùc.	5	1	0	0	0
 B¶o R­¬ng Tö Kho¸ng	2	114	\spr\item\birthday_jieri\200905\tiancibaoxiang.spr	433	1	1	R­¬ng ch©u b¸u, bªn trong chøa 50 Tö Kho¸ng.	100000	1	0	0	0
+Méc Nh©n Phï 	2	115	\spr\item\songjin\clarion.spr	370	1	1	Sö dông sÏ triÖu håi 1 méc nh©n bÊt kú.	5	1	0	0	0
