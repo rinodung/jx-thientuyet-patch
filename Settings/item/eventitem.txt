@@ -89,5 +89,3 @@ Vßng Hoa Vµng	5	86	\spr\item\yulanpenjie\jinlianhuahuan.spr	41	2	1	Vßng Hoa sù k
 Vßng Hoa Hång	5	87	\spr\item\yulanpenjie\huolianhuahuan.spr	41	2	1	Vßng Hoa sù kiÖn Hoa Hång May M¾n.	0	1	0	50	0
 Vßng Hoa Xanh	5	88	\spr\item\yulanpenjie\shuilianhuahuan.spr	41	2	1	Vßng Hoa sù kiÖn Hoa Hång May M¾n.	0	1	0	50	0
 Tói Quµ Hoa Cóc	5	89	\spr\item\script\spring2010\jixiangbao.spr	41	1	1	Bªn trong chøa nguyªn liÖu sù kiÖn Hoa Hång May M¾n.	0	1	0	100	0
-LÖnh bµi T©n Thñ	5	90	\spr\item\vietnam\leaguematch\icon_league_silver.spr	385	1	1	LÖnh Bµi T©n Thñ.	0	1	0	0	1
-Håi Thiªn T¸i T¹o LÔ Bao	5	91	\spr\item\hoithienlebao.spr	41	1	1	Bªn trong cã chøa <color=yellow>60<color> b×nh håi thiªn t¸i t¹o ®¬n	0	1	0	100	0

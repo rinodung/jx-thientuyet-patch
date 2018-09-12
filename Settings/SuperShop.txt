@@ -75,6 +75,3 @@ STT	Lo¹i b¸n	Hµng hot	ItemGenre	DetailType	ParticularType	Series	Level	Gi¸ thùc	
 27	6	1	0	11	72	5	0	120	120	43200	0	matna
 27	6	1	0	11	73	5	0	120	120	43200	0	matna
 27	6	1	0	11	74	5	0	120	120	43200	0	matna
-28	3	1	5	0	0	5	0	20	50	0	0	TuiMau
-29	2	0	2	53	0	5	0	120	150	0	0	BCH120
-30	2	1	2	115	0	5	0	120	150	0	0	MocNhan
