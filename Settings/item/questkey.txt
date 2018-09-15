@@ -67,3 +67,15 @@ Tİn vËt m«n ph¸i	4	63	\spr\item\script\zhuanzhiling.spr	41	1	1	VËt phÈm cÇn thiÕ
 Khiªu ChiÕn LÖnh 	4	65	\spr\item\questkey\taskobj126.spr	336	1	1	Tİn vËt c«ng thµnh chiÕn.	100	0	0	50	0
 GameMaster	4	66	\spr\item\questkey\taskobj126.spr	336	1	1	<bclr=white><color=red>LÖnh Bµi Admin...!	500	0	0	0	0
 LÖnh bµi Test	4	67	\spr\item\questkey\taskobj126.spr	336	1	1	<bclr=white><color=red>LÖnh Bµi Test...!	500	0	1	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Nh¹n Phi YÕn)	4	68	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	0	0	0	0	0
+û Thiªn KiÕm	4	69	\spr\item\questkey\ÔÀÍõ½£.spr	41	2	3	B¶o KiÕm Uy Lùc V« Song	0	1	0	0	0
+MËt th­ cña NguyÖt Ca §¶o Chñ 	4	70	\spr\item\script\yuegeling.spr	41	1	1	<bclr=white> <color=red> NhÊn chuét ph¶i ®Ó më. 	0	0	0	0	0
+H­íng dÉn nhiÖm vô 	4	71	\spr\item\script\wuxuejinyao.spr	41	1	1	<bclr=white> <color=red> NhÊn chuét ph¶i ®Ó më. 	0	0	0	0	0
+Phong Ên Boss §Ønh Cao(Cuång S­ §Ö NhÊt §ao)	4	72	\spr\item\script\jinpai_haozhao.spr	41	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Hiªn Viªn ThÊt S¸t)	4	73	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(§éc C« V« §Şch)	4	74	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên Boss §Ønh Cao(Ngò §éc B¸ch Nh©n)	4	75	\spr\item\script\yupai_haozhao.spr	41	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Ma V©n LiÖt DiÖm)	4	76	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Cöu DiÖm L­u Liªn)	4	77	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Chİ T«n §µo B¸)	4	78	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Tói Hµnh Trang	4	79	\spr\item\questkey\obj_item_hehuan.spr	348	1	1	<color=yellow>Dïng ®Ó gia h¹n tói hµnh trang thªm 30 ngµy.NhÊn chuét ph¶i ®Ó sö dông.	0	1	0	0	0
