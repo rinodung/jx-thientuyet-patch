@@ -96,7 +96,7 @@ RegisterFunctionAlias("zd", "CreateTeam")
 
 
 SetPhrase(0, "C¸c h¹ ë ®©u :S")
-SetPhrase(1, "Theo t¹i h¹ ®Õn ®©y! :K")
+SetPhrase(1, "Theo t¹i h¹ ®Õn ®©y ! :D")
 SetPhrase(2, "Mäi ng­êi h·y cïng lªn, thªm mét ng­êi th× thªm søc :F")
 SetPhrase(3, "Nguy hiÓm, ch¹y lÑ! :$")
 SetPhrase(4, "Gióp t¹i h¹ t¨ng m¸u nhanh ®i! :M")
