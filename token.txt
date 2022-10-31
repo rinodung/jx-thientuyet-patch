@@ -1,0 +1,6 @@
+# jx-thientuyet-patch
+JXWIN Thien Tuyet AutoIngame Patch
+git config --global credential.helper store
+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
+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
+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
